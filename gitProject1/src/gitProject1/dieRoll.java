@@ -27,7 +27,7 @@ public class dieRoll {
 				System.out.println("You got it ");
 				System.out.println("You guessed " + myNum);
 				System.out.println("Die rolled " + randNum);
-				System.out.println("it took you " + tryCounter + " trie
+				System.out.println("it took you " + tryCounter + " tries");
 
 	}
 
